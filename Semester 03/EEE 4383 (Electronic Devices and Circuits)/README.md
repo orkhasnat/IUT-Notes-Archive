@@ -1,11 +1,11 @@
 <link href="../../style.css" rel="stylesheet">
 
-# EEE 4383 (Electronic Devices and Circuits) [(Download ⬇️)](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2003/EEE%204383%20%28Electronic%20Devices%20and%20Circuits%29)
+# EEE 4383 (Electronic Devices and Circuits) [(Download ⬇️)](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2003/EEE%204383%20%28Electronic%20Devices%20and%20Circuits%29)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2003/EEE%204383%20%28Electronic%20Devices%20and%20Circuits%29/Assignments)Assignments
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2003/EEE%204383%20%28Electronic%20Devices%20and%20Circuits%29/Assignments)Assignments
 - [📄 Assignment 01](./Assignments/Assignment%2001.docx)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2003/EEE%204383%20%28Electronic%20Devices%20and%20Circuits%29/Notes)Notes
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2003/EEE%204383%20%28Electronic%20Devices%20and%20Circuits%29/Notes)Notes
 - [📄 Active and Passive Filters](./Notes/Active%20and%20Passive%20Filters.docx)
 - [📄 Chapter 01](./Notes/Chapter%2001.docx)
 - [📄 Chapter 02 - Diode Applications](./Notes/Chapter%2002%20-%20Diode%20Applications.docx)

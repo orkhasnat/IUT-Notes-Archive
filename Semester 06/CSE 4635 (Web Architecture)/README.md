@@ -1,13 +1,13 @@
 <link href="../../style.css" rel="stylesheet">
 
-# CSE 4635 (Web Architecture) [(Download ⬇️)](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204635%20%28Web%20Architecture%29)
+# CSE 4635 (Web Architecture) [(Download ⬇️)](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204635%20%28Web%20Architecture%29)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204635%20%28Web%20Architecture%29/Additional%20Resources)Additional Resources
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204635%20%28Web%20Architecture%29/Additional%20Resources)Additional Resources
 - [🌎 Java Persistence API (JPA) Complete Tutorial](https://www.youtube.com/playlist?list=PL6oD2syjfW7COL__RNrWl4S97vNcqh3mO)
 - [🌎 The Jakarta® EE Tutorial](https://eclipse-ee4j.github.io/jakartaee-tutorial/)
 - [🌎 The Java EE 6 Tutorial](http://docs.oracle.com/javaee/6/tutorial/doc/gexaf.html)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204635%20%28Web%20Architecture%29/Notes)Notes
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204635%20%28Web%20Architecture%29/Notes)Notes
 - [📄 01. Introduction to Web Architecture](./Notes/01.%20Introduction%20to%20Web%20Architecture.docx)
 - [📄 02. HTTP](./Notes/02.%20HTTP.docx)
 - [📄 03. XML](./Notes/03.%20XML.docx)

@@ -1,23 +1,23 @@
 <link href="../../style.css" rel="stylesheet">
 
-# CSE 4643 (Mobile Application Development) [(Download ⬇️)](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204643%20%28Mobile%20Application%20Development%29)
+# CSE 4643 (Mobile Application Development) [(Download ⬇️)](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204643%20%28Mobile%20Application%20Development%29)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204643%20%28Mobile%20Application%20Development%29/Additional%20Resources)Additional Resources
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204643%20%28Mobile%20Application%20Development%29/Additional%20Resources)Additional Resources
 - [🌎 Android Developers](https://developer.android.com/)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204643%20%28Mobile%20Application%20Development%29/Assignments)Assignments
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204643%20%28Mobile%20Application%20Development%29/Assignments)Assignments
 - [📄 Assignment 02](./Assignments/Assignment%2002.docx)
 
-### [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204643%20%28Mobile%20Application%20Development%29/Assignments/Assignment%2001)Assignment 01
+### [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204643%20%28Mobile%20Application%20Development%29/Assignments/Assignment%2001)Assignment 01
 - [📄 Assignment 01](./Assignments/Assignment%2001/Assignment%2001.docx)
 
-#### [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204643%20%28Mobile%20Application%20Development%29/Assignments/Assignment%2001/Graphs)Graphs
+#### [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204643%20%28Mobile%20Application%20Development%29/Assignments/Assignment%2001/Graphs)Graphs
 - [01. Worldwide Smartphone Market Share.jpeg](./Assignments/Assignment%2001/Graphs/01.%20Worldwide%20Smartphone%20Market%20Share.jpeg)
 - [🖼️ 02. Global Mobile App Downloads](./Assignments/Assignment%2001/Graphs/02.%20Global%20Mobile%20App%20Downloads.png)
 - [🖼️ 03. Global Mobile App Spending](./Assignments/Assignment%2001/Graphs/03.%20Global%20Mobile%20App%20Spending.png)
 - [🖼️ 04. Revenue by Region](./Assignments/Assignment%2001/Graphs/04.%20Revenue%20by%20Region.png)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204643%20%28Mobile%20Application%20Development%29/Notes)Notes
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204643%20%28Mobile%20Application%20Development%29/Notes)Notes
 - [📄 01. Types of Mobile Applications](./Notes/01.%20Types%20of%20Mobile%20Applications.docx)
 - [📄 02. Android Versions](./Notes/02.%20Android%20Versions.docx)
 - [📄 03. Android Overview](./Notes/03.%20Android%20Overview.docx)

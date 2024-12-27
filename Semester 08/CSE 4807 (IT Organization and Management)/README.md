@@ -1,14 +1,14 @@
 <link href="../../style.css" rel="stylesheet">
 
-# CSE 4807 (IT Organization and Management) [(Download ⬇️)](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2008/CSE%204807%20%28IT%20Organization%20and%20Management%29)
+# CSE 4807 (IT Organization and Management) [(Download ⬇️)](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2008/CSE%204807%20%28IT%20Organization%20and%20Management%29)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2008/CSE%204807%20%28IT%20Organization%20and%20Management%29/Assignments)Assignments
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2008/CSE%204807%20%28IT%20Organization%20and%20Management%29/Assignments)Assignments
 
-### [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2008/CSE%204807%20%28IT%20Organization%20and%20Management%29/Assignments/Assignment%2001)Assignment 01
+### [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2008/CSE%204807%20%28IT%20Organization%20and%20Management%29/Assignments/Assignment%2001)Assignment 01
 - [💻 Solution.tex](./Assignments/Assignment%2001/Solution.tex)
 - [📄 Tasks](./Assignments/Assignment%2001/Tasks.pdf)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2008/CSE%204807%20%28IT%20Organization%20and%20Management%29/Notes)Notes
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2008/CSE%204807%20%28IT%20Organization%20and%20Management%29/Notes)Notes
 - [📄 Chapter 00 - Introduction](./Notes/Chapter%2000%20-%20Introduction.docx)
 - [📄 Chapter 01 -  Foundational Elements of Project Management](./Notes/Chapter%2001%20-%20%20Foundational%20Elements%20of%20Project%20Management.docx)
 - [📄 Chapter 01 - Introduction to Management and Organizations](./Notes/Chapter%2001%20-%20Introduction%20to%20Management%20and%20Organizations.docx)

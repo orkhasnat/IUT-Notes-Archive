@@ -1,8 +1,8 @@
 <link href="../../style.css" rel="stylesheet">
 
-# CSE 4503 (Microprocessor and Assembly Language) [(Download ⬇️)](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2005/CSE%204503%20%28Microprocessor%20and%20Assembly%20Language%29)
+# CSE 4503 (Microprocessor and Assembly Language) [(Download ⬇️)](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2005/CSE%204503%20%28Microprocessor%20and%20Assembly%20Language%29)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2005/CSE%204503%20%28Microprocessor%20and%20Assembly%20Language%29/Notes)Notes
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2005/CSE%204503%20%28Microprocessor%20and%20Assembly%20Language%29/Notes)Notes
 - [📄 01. Introduction to Microprocessors and Assembly Language](./Notes/01.%20Introduction%20to%20Microprocessors%20and%20Assembly%20Language.docx)
 - [📄 02. Overview of Microcomputer Structure and Operation](./Notes/02.%20Overview%20of%20Microcomputer%20Structure%20and%20Operation.docx)
 - [📄 03. 8085 Microprocessor Internal Architectures](./Notes/03.%208085%20Microprocessor%20Internal%20Architectures.docx)

@@ -1,22 +1,22 @@
 <link href="../../style.css" rel="stylesheet">
 
-# CSE 4621 (Machine Learning) [(Download ⬇️)](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204621%20%28Machine%20Learning%29)
+# CSE 4621 (Machine Learning) [(Download ⬇️)](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204621%20%28Machine%20Learning%29)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204621%20%28Machine%20Learning%29/Additional%20Resources)Additional Resources
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204621%20%28Machine%20Learning%29/Additional%20Resources)Additional Resources
 - [🌎 A Tutorial Principal Component Analysis - Lindsay I. Smith](http://www.iro.umontreal.ca/~pift6080/H09/documents/papers/pca_tutorial.pdf)
 - [🌎 Machine Learning (Coursera) - Andrew Ng](https://www.coursera.org/learn/machine-learning)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204621%20%28Machine%20Learning%29/Assignments)Assignments
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204621%20%28Machine%20Learning%29/Assignments)Assignments
 
-### [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204621%20%28Machine%20Learning%29/Assignments/Support%20Vector%20Machines)Support Vector Machines
+### [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204621%20%28Machine%20Learning%29/Assignments/Support%20Vector%20Machines)Support Vector Machines
 - [📄 Assignment](./Assignments/Support%20Vector%20Machines/Assignment.docx)
 
-#### [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204621%20%28Machine%20Learning%29/Assignments/Support%20Vector%20Machines/Graphics)Graphics
+#### [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204621%20%28Machine%20Learning%29/Assignments/Support%20Vector%20Machines/Graphics)Graphics
 - [🖼️ 1.svg](./Assignments/Support%20Vector%20Machines/Graphics/1.svg)
 - [🖼️ 2.svg](./Assignments/Support%20Vector%20Machines/Graphics/2.svg)
 - [🖼️ 3.svg](./Assignments/Support%20Vector%20Machines/Graphics/3.svg)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204621%20%28Machine%20Learning%29/Notes)Notes
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204621%20%28Machine%20Learning%29/Notes)Notes
 - [📄 01. Introduction](./Notes/01.%20Introduction.docx)
 - [📄 02. Simple Linear Regression](./Notes/02.%20Simple%20Linear%20Regression.docx)
 - [📄 03. Gradient Descent](./Notes/03.%20Gradient%20Descent.docx)

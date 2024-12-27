@@ -1,8 +1,8 @@
 <link href="../../style.css" rel="stylesheet">
 
-# HUM 4441 (Engineering Ethics) [(Download ⬇️)](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2004/HUM%204441%20%28Engineering%20Ethics%29)
+# HUM 4441 (Engineering Ethics) [(Download ⬇️)](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2004/HUM%204441%20%28Engineering%20Ethics%29)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2004/HUM%204441%20%28Engineering%20Ethics%29/Course%20Repository)Course Repository
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2004/HUM%204441%20%28Engineering%20Ethics%29/Course%20Repository)Course Repository
 - [🌎 08. Case - Storm Surge Barrier - Coursera](https://www.coursera.org/learn/ethics-technology-engineering/supplement/Smcgb/introduction)
 - [🌎 11. EU General Data Protection Regulation - Official Journal of the European Union](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2016:119:FULL)
 - [🌎 12. Digital Security Act 2018 - Bangladesh Parliament](https://basis.org.bd/public/files/policy/5e1653db166e8Digital-Security-Act-2018-English-version.pdf)
@@ -12,7 +12,7 @@
 - [🌎 Coursera Course](https://www.coursera.org/learn/ethics-technology-engineering?action=enroll)
 - [🌎 IEEE Code of Ethics](https://www.ieee.org/about/corporate/governance/p7-8.html)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2004/HUM%204441%20%28Engineering%20Ethics%29/Lecture%20Notes%20from%20Coursera)Lecture Notes from Coursera
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2004/HUM%204441%20%28Engineering%20Ethics%29/Lecture%20Notes%20from%20Coursera)Lecture Notes from Coursera
 - [🌎 01. Responsibility](https://www.coursera.org/learn/ethics-technology-engineering/supplement/2JVWl/responsibility)
 - [🌎 02. Active Responsibility](https://www.coursera.org/learn/ethics-technology-engineering/supplement/ml76S/active-responsibility-and-the-ideals-of-engineers)
 - [🌎 03. Whistle-Blowing](https://www.coursera.org/learn/ethics-technology-engineering/supplement/wW1b9/whistle-blowing)
@@ -30,7 +30,7 @@
 - [🌎 15. Risk Assessments](https://www.coursera.org/learn/ethics-technology-engineering/supplement/Klqys/risk-assessment)
 - [🌎 16. Mathematics of Risk](https://www.westfield.ma.edu/math/MathWeb/Actuarial/PDFs/342-Intro-to-Risk.pdf)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2004/HUM%204441%20%28Engineering%20Ethics%29/Notes)Notes
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2004/HUM%204441%20%28Engineering%20Ethics%29/Notes)Notes
 - [📄 01. Role and Responsibilities of Engineers](./Notes/01.%20Role%20and%20Responsibilities%20of%20Engineers.docx)
 - [📄 02. Whistle-Blowing](./Notes/02.%20Whistle-Blowing.docx)
 - [📄 03. Precautionary Principle](./Notes/03.%20Precautionary%20Principle.docx)
@@ -47,6 +47,6 @@
 - [📄 14. Data Security](./Notes/14.%20Data%20Security.docx)
 - [📄 15. Intellectual Property Rights](./Notes/15.%20Intellectual%20Property%20Rights.docx)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2004/HUM%204441%20%28Engineering%20Ethics%29/Term%20Paper)Term Paper
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2004/HUM%204441%20%28Engineering%20Ethics%29/Term%20Paper)Term Paper
 - [🌎 Google Classroom Originality Reports Plagiarism Checker - Jen Jonson](https://www.youtube.com/watch?v=Xrrei9jeib4)
 - [🌎 Template](http://www.ieee.org/content/dam/ieee-org/ieee/web/org/conferences/Conference-template-A4.doc)

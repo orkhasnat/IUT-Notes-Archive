@@ -1,26 +1,26 @@
 <link href="../../style.css" rel="stylesheet">
 
-# CSE 4513 (Software Engineering and Object-Oriented Design) [(Download ⬇️)](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2005/CSE%204513%20%28Software%20Engineering%20and%20Object-Oriented%20Design%29)
+# CSE 4513 (Software Engineering and Object-Oriented Design) [(Download ⬇️)](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2005/CSE%204513%20%28Software%20Engineering%20and%20Object-Oriented%20Design%29)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2005/CSE%204513%20%28Software%20Engineering%20and%20Object-Oriented%20Design%29/Additional%20Resources)Additional Resources
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2005/CSE%204513%20%28Software%20Engineering%20and%20Object-Oriented%20Design%29/Additional%20Resources)Additional Resources
 - [🌎 Dive Into Design Patterns (1st Edition) - Alexander Shvets](http://libgen.rs/book/index.php?md5=413159300983C70C458262D1EB6A9155)
 - [🌎 IEEE Software Requirements Specification Template](https://cs.gmu.edu/~rpettit/files/project/SRS-template.doc)
 - [📄 Software Requirement Specification Sample](./Additional%20Resources/Software%20Requirement%20Specification%20Sample.docx)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2005/CSE%204513%20%28Software%20Engineering%20and%20Object-Oriented%20Design%29/Assignments)Assignments
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2005/CSE%204513%20%28Software%20Engineering%20and%20Object-Oriented%20Design%29/Assignments)Assignments
 
-### [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2005/CSE%204513%20%28Software%20Engineering%20and%20Object-Oriented%20Design%29/Assignments/Assignment%2001)Assignment 01
+### [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2005/CSE%204513%20%28Software%20Engineering%20and%20Object-Oriented%20Design%29/Assignments/Assignment%2001)Assignment 01
 - [📄 Solutions](./Assignments/Assignment%2001/Solutions.docx)
 - [📄 Tasks.txt](./Assignments/Assignment%2001/Tasks.txt)
 
-### [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2005/CSE%204513%20%28Software%20Engineering%20and%20Object-Oriented%20Design%29/Assignments/Assignment%2002)Assignment 02
+### [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2005/CSE%204513%20%28Software%20Engineering%20and%20Object-Oriented%20Design%29/Assignments/Assignment%2002)Assignment 02
 - [📄 Solution](./Assignments/Assignment%2002/Solution.docx)
 - [📄 Tasks.txt](./Assignments/Assignment%2002/Tasks.txt)
 
-### [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2005/CSE%204513%20%28Software%20Engineering%20and%20Object-Oriented%20Design%29/Assignments/Assignment%2003)Assignment 03
+### [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2005/CSE%204513%20%28Software%20Engineering%20and%20Object-Oriented%20Design%29/Assignments/Assignment%2003)Assignment 03
 - [📄 Presentation.pptx](./Assignments/Assignment%2003/Presentation.pptx)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2005/CSE%204513%20%28Software%20Engineering%20and%20Object-Oriented%20Design%29/Notes)Notes
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2005/CSE%204513%20%28Software%20Engineering%20and%20Object-Oriented%20Design%29/Notes)Notes
 - [📄 01. Introduction to Software Engineering](./Notes/01.%20Introduction%20to%20Software%20Engineering.docx)
 - [📄 02. Software Development Life Cycle](./Notes/02.%20Software%20Development%20Life%20Cycle.docx)
 - [📄 03. Software Size Estimation](./Notes/03.%20Software%20Size%20Estimation.docx)

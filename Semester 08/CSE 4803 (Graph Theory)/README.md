@@ -1,13 +1,13 @@
 <link href="../../style.css" rel="stylesheet">
 
-# CSE 4803 (Graph Theory) [(Download ⬇️)](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2008/CSE%204803%20%28Graph%20Theory%29)
+# CSE 4803 (Graph Theory) [(Download ⬇️)](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2008/CSE%204803%20%28Graph%20Theory%29)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2008/CSE%204803%20%28Graph%20Theory%29/Additional%20Resources)Additional Resources
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2008/CSE%204803%20%28Graph%20Theory%29/Additional%20Resources)Additional Resources
 - [📄 De Bruijn Sequences](./Additional%20Resources/De%20Bruijn%20Sequences.pdf)
 - [🌎 Game Theory 101 Full Course](https://www.youtube.com/playlist?list=PLKI1h_nAkaQoDzI4xDIXzx6U2ergFmedo)
 - [🌎 What is a Blockchain (Animated + Examples)](https://www.youtube.com/watch?v=kHybf1aC-jE)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2008/CSE%204803%20%28Graph%20Theory%29/Notes)Notes
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2008/CSE%204803%20%28Graph%20Theory%29/Notes)Notes
 - [📄 00. Pre-Introduction (Discarded Materials)](./Notes/00.%20Pre-Introduction%20%28Discarded%20Materials%29.docx)
 - [📄 01. Introduction](./Notes/01.%20Introduction.docx)
 - [📄 02. Paths and Circuits](./Notes/02.%20Paths%20and%20Circuits.docx)

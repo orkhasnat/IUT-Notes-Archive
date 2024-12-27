@@ -1,20 +1,20 @@
 <link href="../../style.css" rel="stylesheet">
 
-# CSE 4511 (Computer Networks) [(Download ⬇️)](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2005/CSE%204511%20%28Computer%20Networks%29)
+# CSE 4511 (Computer Networks) [(Download ⬇️)](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2005/CSE%204511%20%28Computer%20Networks%29)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2005/CSE%204511%20%28Computer%20Networks%29/Final%20Presentation)Final Presentation
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2005/CSE%204511%20%28Computer%20Networks%29/Final%20Presentation)Final Presentation
 - [📄 Presentation.pptx](./Final%20Presentation/Presentation.pptx)
 - [📄 Topics.xlsx](./Final%20Presentation/Topics.xlsx)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2005/CSE%204511%20%28Computer%20Networks%29/Notes)Notes
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2005/CSE%204511%20%28Computer%20Networks%29/Notes)Notes
 
-### [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2005/CSE%204511%20%28Computer%20Networks%29/Notes/Data%20Communications%20and%20Networking)Data Communications and Networking
+### [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2005/CSE%204511%20%28Computer%20Networks%29/Notes/Data%20Communications%20and%20Networking)Data Communications and Networking
 - [📄 12. Multiple Access](./Notes/Data%20Communications%20and%20Networking/12.%20Multiple%20Access.docx)
 - [📄 13. Wired LANs - Ethernet](./Notes/Data%20Communications%20and%20Networking/13.%20Wired%20LANs%20-%20Ethernet.docx)
 - [📄 14. Wireless LANs](./Notes/Data%20Communications%20and%20Networking/14.%20Wireless%20LANs.docx)
 - [📄 15. Connecting LANs, Backbone Networks and Virtual LANs](./Notes/Data%20Communications%20and%20Networking/15.%20Connecting%20LANs%2C%20Backbone%20Networks%20and%20Virtual%20LANs.docx)
 
-### [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2005/CSE%204511%20%28Computer%20Networks%29/Notes/TCP%20IP%20Protocol%20Suite)TCP IP Protocol Suite
+### [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2005/CSE%204511%20%28Computer%20Networks%29/Notes/TCP%20IP%20Protocol%20Suite)TCP IP Protocol Suite
 - [📄 04. Introduction to Network Layer](./Notes/TCP%20IP%20Protocol%20Suite/04.%20Introduction%20to%20Network%20Layer.docx)
 - [📄 05. IPv4 Addressing](./Notes/TCP%20IP%20Protocol%20Suite/05.%20IPv4%20Addressing.docx)
 - [📄 06. Delivery and Forwarding of IP Packets](./Notes/TCP%20IP%20Protocol%20Suite/06.%20Delivery%20and%20Forwarding%20of%20IP%20Packets.docx)

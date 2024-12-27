@@ -2,7 +2,7 @@ import os
 import urllib.parse
 
 
-DOWNLOAD_BASE = "https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F"
+DOWNLOAD_BASE = "https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F"
 
 
 def create_url(path, file):

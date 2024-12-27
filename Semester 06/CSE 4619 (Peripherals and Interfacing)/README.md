@@ -1,13 +1,13 @@
 <link href="../../style.css" rel="stylesheet">
 
-# CSE 4619 (Peripherals and Interfacing) [(Download ⬇️)](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204619%20%28Peripherals%20and%20Interfacing%29)
+# CSE 4619 (Peripherals and Interfacing) [(Download ⬇️)](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204619%20%28Peripherals%20and%20Interfacing%29)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204619%20%28Peripherals%20and%20Interfacing%29/Additional%20Resources)Additional Resources
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204619%20%28Peripherals%20and%20Interfacing%29/Additional%20Resources)Additional Resources
 - [🌎 8259A - Intel](https://pdos.csail.mit.edu/6.828/2018/readings/hardware/8259A.pdf)
 - [🌎 8259A](https://old.amu.ac.in/emp/studym/99992677.pdf)
 - [🌎 CAN Bus](https://www.kth.se/social/upload/64/CAN.pdf)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204619%20%28Peripherals%20and%20Interfacing%29/Notes)Notes
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2006/CSE%204619%20%28Peripherals%20and%20Interfacing%29/Notes)Notes
 - [📄 01. Introduction to Peripherals, Interfacing and Embedded Systems](./Notes/01.%20Introduction%20to%20Peripherals%2C%20Interfacing%20and%20Embedded%20Systems.docx)
 - [📄 02. Basic IO System Design](./Notes/02.%20Basic%20IO%20System%20Design.docx)
 - [📄 03. Microcontrollers](./Notes/03.%20Microcontrollers.docx)

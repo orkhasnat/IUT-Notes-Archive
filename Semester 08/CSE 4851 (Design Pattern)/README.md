@@ -1,28 +1,28 @@
 <link href="../../style.css" rel="stylesheet">
 
-# CSE 4851 (Design Pattern) [(Download ⬇️)](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2008/CSE%204851%20%28Design%20Pattern%29)
+# CSE 4851 (Design Pattern) [(Download ⬇️)](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2008/CSE%204851%20%28Design%20Pattern%29)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2008/CSE%204851%20%28Design%20Pattern%29/Additional%20Resources)Additional Resources
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2008/CSE%204851%20%28Design%20Pattern%29/Additional%20Resources)Additional Resources
 - [🌎 ATM Case Study Part 2 - Implementing the Design](http://www.profstruck.net/CST242/JavaHowToProgram_34_ATMPart2.pdf)
 - [📦 Dependency Inversion Example.zip](./Additional%20Resources/Dependency%20Inversion%20Example.zip)
 - [🌎 Exercises - Inheritance, Polymorphism](https://www.cs.uwlax.edu/currentstudents/credit-by-exam/inherit-excercises.pdf)
 - [🌎 Introduction - Design Patterns - Elements of Reusable Object-Oriented Software](http://www.grch.com.ar/docs/unlu.poo/Gamma-DesignPatternsIntro.pdf)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2008/CSE%204851%20%28Design%20Pattern%29/Assignments)Assignments
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2008/CSE%204851%20%28Design%20Pattern%29/Assignments)Assignments
 
-### [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2008/CSE%204851%20%28Design%20Pattern%29/Assignments/Assignment%2001)Assignment 01
+### [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2008/CSE%204851%20%28Design%20Pattern%29/Assignments/Assignment%2001)Assignment 01
 - [📦 Source Code.zip](./Assignments/Assignment%2001/Source%20Code.zip)
 - [📄 Task.txt](./Assignments/Assignment%2001/Task.txt)
 
-### [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2008/CSE%204851%20%28Design%20Pattern%29/Assignments/Assingment%2002)Assingment 02
+### [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2008/CSE%204851%20%28Design%20Pattern%29/Assignments/Assingment%2002)Assingment 02
 - [📦 Source Code.zip](./Assignments/Assingment%2002/Source%20Code.zip)
 - [📄 Task.txt](./Assignments/Assingment%2002/Task.txt)
 
-### [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2008/CSE%204851%20%28Design%20Pattern%29/Assignments/Quiz%2004)Quiz 04
+### [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2008/CSE%204851%20%28Design%20Pattern%29/Assignments/Quiz%2004)Quiz 04
 - [📦 Source Code.zip](./Assignments/Quiz%2004/Source%20Code.zip)
 - [📄 Task.txt](./Assignments/Quiz%2004/Task.txt)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2008/CSE%204851%20%28Design%20Pattern%29/Notes)Notes
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2008/CSE%204851%20%28Design%20Pattern%29/Notes)Notes
 - [📄 01. Introduction](./Notes/01.%20Introduction.docx)
 - [📄 02. Object Oriented Concepts](./Notes/02.%20Object%20Oriented%20Concepts.docx)
 - [📄 03. Introduction to Design Patterns (Strategy Pattern)](./Notes/03.%20Introduction%20to%20Design%20Patterns%20%28Strategy%20Pattern%29.docx)

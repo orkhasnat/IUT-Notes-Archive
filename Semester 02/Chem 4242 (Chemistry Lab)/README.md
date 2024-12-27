@@ -1,6 +1,6 @@
 <link href="../../style.css" rel="stylesheet">
 
-# Chem 4242 (Chemistry Lab) [(Download ⬇️)](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2002/Chem%204242%20%28Chemistry%20Lab%29)
+# Chem 4242 (Chemistry Lab) [(Download ⬇️)](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2002/Chem%204242%20%28Chemistry%20Lab%29)
 - [📄 Experiment 01](.//Experiment%2001.docx)
 - [📄 Experiment 02](.//Experiment%2002.docx)
 - [📄 Experiment 03](.//Experiment%2003.docx)

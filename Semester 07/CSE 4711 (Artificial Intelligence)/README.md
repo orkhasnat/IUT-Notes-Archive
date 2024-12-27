@@ -1,15 +1,15 @@
 <link href="../../style.css" rel="stylesheet">
 
-# CSE 4711 (Artificial Intelligence) [(Download ⬇️)](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2007/CSE%204711%20%28Artificial%20Intelligence%29)
+# CSE 4711 (Artificial Intelligence) [(Download ⬇️)](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2007/CSE%204711%20%28Artificial%20Intelligence%29)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2007/CSE%204711%20%28Artificial%20Intelligence%29/Additional%20Resources)Additional Resources
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2007/CSE%204711%20%28Artificial%20Intelligence%29/Additional%20Resources)Additional Resources
 - [🌎 CS 188 - UC Berkley](https://inst.eecs.berkeley.edu/~cs188/)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2007/CSE%204711%20%28Artificial%20Intelligence%29/Assignments)Assignments
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2007/CSE%204711%20%28Artificial%20Intelligence%29/Assignments)Assignments
 - [📄 Solution](./Assignments/Solution.docx)
 - [📄 Task.txt](./Assignments/Task.txt)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2007/CSE%204711%20%28Artificial%20Intelligence%29/Notes)Notes
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2007/CSE%204711%20%28Artificial%20Intelligence%29/Notes)Notes
 - [📄 01. Introduction](./Notes/01.%20Introduction.docx)
 - [📄 02. Uninformed Search](./Notes/02.%20Uninformed%20Search.docx)
 - [📄 03. Informed Search](./Notes/03.%20Informed%20Search.docx)

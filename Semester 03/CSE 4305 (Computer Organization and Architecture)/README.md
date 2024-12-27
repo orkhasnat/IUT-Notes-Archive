@@ -1,15 +1,15 @@
 <link href="../../style.css" rel="stylesheet">
 
-# CSE 4305 (Computer Organization and Architecture) [(Download ⬇️)](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2003/CSE%204305%20%28Computer%20Organization%20and%20Architecture%29)
+# CSE 4305 (Computer Organization and Architecture) [(Download ⬇️)](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2003/CSE%204305%20%28Computer%20Organization%20and%20Architecture%29)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2003/CSE%204305%20%28Computer%20Organization%20and%20Architecture%29/Assignments)Assignments
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2003/CSE%204305%20%28Computer%20Organization%20and%20Architecture%29/Assignments)Assignments
 
-### [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2003/CSE%204305%20%28Computer%20Organization%20and%20Architecture%29/Assignments/Mid%20Compensation%20Assignment)Mid Compensation Assignment
+### [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2003/CSE%204305%20%28Computer%20Organization%20and%20Architecture%29/Assignments/Mid%20Compensation%20Assignment)Mid Compensation Assignment
 - [📄 Guidelines](./Assignments/Mid%20Compensation%20Assignment/Guidelines.docx)
 - [📄 Tasks](./Assignments/Mid%20Compensation%20Assignment/Tasks.docx)
 - [📄 Template.doc](./Assignments/Mid%20Compensation%20Assignment/Template.doc)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2003/CSE%204305%20%28Computer%20Organization%20and%20Architecture%29/Notes)Notes
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2003/CSE%204305%20%28Computer%20Organization%20and%20Architecture%29/Notes)Notes
 - [📄 Chapter 01](./Notes/Chapter%2001.docx)
 - [📄 Chapter 02 - Performance Issues](./Notes/Chapter%2002%20-%20Performance%20Issues.docx)
 - [📄 Chapter 03 - Top-Level View of Computer](./Notes/Chapter%2003%20-%20Top-Level%20View%20of%20Computer.docx)

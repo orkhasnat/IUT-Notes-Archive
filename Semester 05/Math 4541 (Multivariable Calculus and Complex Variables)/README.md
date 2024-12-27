@@ -1,8 +1,8 @@
 <link href="../../style.css" rel="stylesheet">
 
-# Math 4541 (Multivariable Calculus and Complex Variables) [(Download ⬇️)](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2005/Math%204541%20%28Multivariable%20Calculus%20and%20Complex%20Variables%29)
+# Math 4541 (Multivariable Calculus and Complex Variables) [(Download ⬇️)](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2005/Math%204541%20%28Multivariable%20Calculus%20and%20Complex%20Variables%29)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2005/Math%204541%20%28Multivariable%20Calculus%20and%20Complex%20Variables%29/Notes)Notes
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2005/Math%204541%20%28Multivariable%20Calculus%20and%20Complex%20Variables%29/Notes)Notes
 - [📄 01. Complex Numbers](./Notes/01.%20Complex%20Numbers.docx)
 - [📄 02. Functions, Limits and Continuity](./Notes/02.%20Functions%2C%20Limits%20and%20Continuity.docx)
 - [📄 03. Complex Differentiation and Cauchy-Riemann Equations](./Notes/03.%20Complex%20Differentiation%20and%20Cauchy-Riemann%20Equations.docx)

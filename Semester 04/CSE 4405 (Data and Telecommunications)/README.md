@@ -1,8 +1,8 @@
 <link href="../../style.css" rel="stylesheet">
 
-# CSE 4405 (Data and Telecommunications) [(Download ⬇️)](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2004/CSE%204405%20%28Data%20and%20Telecommunications%29)
+# CSE 4405 (Data and Telecommunications) [(Download ⬇️)](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2004/CSE%204405%20%28Data%20and%20Telecommunications%29)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2004/CSE%204405%20%28Data%20and%20Telecommunications%29/Notes)Notes
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2004/CSE%204405%20%28Data%20and%20Telecommunications%29/Notes)Notes
 - [📄 Chapter 01 - Introduction to Data and Telecommunications](./Notes/Chapter%2001%20-%20Introduction%20to%20Data%20and%20Telecommunications.docx)
 - [📄 Chapter 02 - Network Models](./Notes/Chapter%2002%20-%20Network%20Models.docx)
 - [📄 Chapter 03 - Data and Signals](./Notes/Chapter%2003%20-%20Data%20and%20Signals.docx)

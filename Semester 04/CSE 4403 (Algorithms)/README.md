@@ -1,8 +1,8 @@
 <link href="../../style.css" rel="stylesheet">
 
-# CSE 4403 (Algorithms) [(Download ⬇️)](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2004/CSE%204403%20%28Algorithms%29)
+# CSE 4403 (Algorithms) [(Download ⬇️)](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2004/CSE%204403%20%28Algorithms%29)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2004/CSE%204403%20%28Algorithms%29/Algorithms%20%28May%20Contain%20Mistakes%29)Algorithms (May Contain Mistakes)
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2004/CSE%204403%20%28Algorithms%29/Algorithms%20%28May%20Contain%20Mistakes%29)Algorithms (May Contain Mistakes)
 - [💻 Bellman-Ford Algorithm.cpp](./Algorithms%20%28May%20Contain%20Mistakes%29/Bellman-Ford%20Algorithm.cpp)
 - [💻 Binary Search.cpp](./Algorithms%20%28May%20Contain%20Mistakes%29/Binary%20Search.cpp)
 - [💻 Breadth First Search.cpp](./Algorithms%20%28May%20Contain%20Mistakes%29/Breadth%20First%20Search.cpp)
@@ -17,7 +17,7 @@
 - [💻 Radix Sort.cpp](./Algorithms%20%28May%20Contain%20Mistakes%29/Radix%20Sort.cpp)
 - [💻 Topological Sort.cpp](./Algorithms%20%28May%20Contain%20Mistakes%29/Topological%20Sort.cpp)
 
-## [⬇️ ](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2004/CSE%204403%20%28Algorithms%29/Notes)Notes
+## [⬇️ ](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Falvi-khan%2FIUT-Notes-Archive%2Ftree%2Fmain%2F/Semester%2004/CSE%204403%20%28Algorithms%29/Notes)Notes
 - [📄 Advanced Dynamic Programming](./Notes/Advanced%20Dynamic%20Programming.docx)
 - [📄 Complexity Classes](./Notes/Complexity%20Classes.docx)
 - [📄 Disjoint-Set Union](./Notes/Disjoint-Set%20Union.docx)
